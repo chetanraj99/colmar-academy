@@ -1,0 +1,12 @@
+@media screen and (max-width: 768px) {
+	.card_img {
+		height: 200px !important;
+		object-fit: cover;
+	}
+	.bg-lightgray1 {
+		background-color: rgb(200, 200, 200);
+	}
+	.bg-lightgray {
+		background-color: rgb(234, 231, 231);
+	}
+}
